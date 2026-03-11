@@ -131,6 +131,24 @@ margin-bottom:10px;
 }
 
 
+/* SKILLS */
+
+.skills{
+list-style:none;
+font-size:22px;
+margin-top:20px;
+color:#cbd5e1;
+}
+
+.skills li{
+margin:10px 0;
+}
+
+.skills li::before{
+content:"— ";
+color:#ffffff;
+}
+
 /* GALLERY */
 
 #gallery{
